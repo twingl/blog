@@ -3,7 +3,7 @@
   max-width: 740px;
   margin: $spacing-s auto;
   font-family: $variant-family;
-  background: white;
+  background: $bg-color;
   z-index: 1;
 
   .single-content {
@@ -16,12 +16,12 @@
   .feat {
     text-align: center;
     border-bottom: 1px dotted $border-color;
-    margin: 0 auto $spacing-l;
+    margin: 0 auto $spacing-s;
     a.popup {
       display: inline-block;
       position: relative;
       top: .7em;
-      background: #fff;
+      background: $bg-color;
       font-size: 130%;
       text-align: center;
       text-decoration: none;
@@ -94,6 +94,28 @@
   img {
     width: 100%;
     height: 100%;
+  }
+  .meta {
+    text-align: center;
+    margin: $spacing-m auto $spacing-m auto;
+  }
+  .written-by {
+    font-size: 0.5em;
+    text-align: center;
+    display: block;
+    margin-bottom: $spacing-xs;
+    opacity: 0.5;
+  }
+  a.author {
+    text-decoration: none;
+  }
+  img.img-author {
+    width: $spacing-l;
+    height: $spacing-l;
+  }
+  .author-name {
+    display: block;
+    font-size: 0.65em;
   }
 
 

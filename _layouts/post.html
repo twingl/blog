@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{% assign author = site.authors[page.author] %}
 <section class="single-wrap">
   <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
     <div class="feat">
@@ -11,6 +11,7 @@ layout: default
         </time>
       </h5>
     </div>
+    <div class="meta"><span class="written-by">Written by</span><a class="author" href="https://twitter.com/{{ author.twitter }}"><img class="img-author" src="https://s.gravatar.com/avatar/{{ author.gravatar }}?s=160" width="80px"><span class="author-name">{{ author.display_name }}</span></a></div>
     <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
     <div itemprop="articleBody">
       {{ content }}

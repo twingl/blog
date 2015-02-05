@@ -2,7 +2,7 @@
 name: "The Twingl Hivemind"
 
 # Description of your content (will only be used on Google Search)
-description: "<>"
+description: "Twingl is accelerating the evolution of human intelligence."
 
 # Your name. Will show in your footer + sidebar 
 author: "Twingl"
@@ -35,3 +35,21 @@ paginate_path: "/page/:num"
 sass:
   sass_dir: _scss
   style: :compressed
+
+# Authors
+authors:
+  andy: 
+    display_name: Andy Wilkinson
+    gravatar: b9df7dc98ce5c3e7ac85267d475b9512
+    email: andy@twin.gl
+    twitter: DarkLordAndy
+  matt: 
+    display_name: Matt Kennedy
+    gravatar: 96d229c54fe112f9c9af251ce457519b
+    email: matt@twin.gl
+    twitter: mattkennedy
+  greg: 
+    display_name: Greg Signal
+    gravatar: 5e2d9200784ed3309a78aa776c412cfa
+    email: greg@twin.gl
+    twitter: glsignal

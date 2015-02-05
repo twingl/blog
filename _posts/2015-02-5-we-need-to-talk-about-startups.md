@@ -2,6 +2,7 @@
 layout: post
 title:  "How we talk about startups"
 date:   2014-11-27 10:11:51
+author: andy
 ---
 *This post originally appeared in [Idealog](http://idealog.co.nz/tech/2014/11/twingls-co-founder-why-startups-must-not-fall-whirlwind-romancing-venture-capitalists-ipos-and-exit-strategies) in November 2014.*
 

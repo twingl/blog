@@ -2,6 +2,7 @@
 layout: post
 title:  "Thoughts on the future of Ed Tech"
 date:   2014-10-10 12:34:56
+author: matt
 ---
 *This post originally appeared on [Education Personnel](http://edperson.co.nz/blog/thoughts-on-the-future-of-edtech-matt-kennedy) in October 2014.* 
 
