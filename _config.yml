@@ -1,0 +1,37 @@
+# Title of your blog; shows in the header
+name: "Twingl Blog"
+
+# Description of your content (will only be used on Google Search)
+description: "<>"
+
+# Your name. Will show in your footer + sidebar 
+author: "Twingl"
+
+url: "http://blog.twin.gl"
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
+author-bio: "<>"
+
+# Social Accounts (mine, as placeholders)
+
+twitter: LetsTwingl
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+ga_domain: blog.twin.gl
+ga_tracking_id: UA-43678647-7
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed
