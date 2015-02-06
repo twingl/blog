@@ -13,6 +13,7 @@
       <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700|Lora:400,700,400italic" rel="stylesheet" type="text/css">
       <link rel="stylesheet" type="text/css" href="{{ site.baseurl| split: '/' | join:'/' }}/css/main.css" />
       <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
+      <link rel="icon" type="image/png" href="assets/img/favicon.png">
   </head>
 
   <body>
@@ -21,18 +22,24 @@
     <![endif]-->
 
     <div class="off-canvas">
-      <figure class="avatar">
+<!--       <figure class="avatar">
         <img src="{{ site.baseurl }}/assets/img/avatar.jpg" alt="Picture" title="{{ site.author }}.">
-      </figure>
+      </figure> -->
       <div class="bio">
-          <h1>Hi, we're {{ site.author }}.</h1>
+          <h1>Hi, we’re <a href="{{site.parentsite}}">{{ site.author }}</a>.</h1>
           <p>{{ site.author-bio }}</p>
       </div>
       <nav>
-        <h6>Follow me on</h6>
+        <h6>What we make</h6>
+          <a class="tb-logo" href="http://trailblazer.io/"><img src="assets/img/tb-logo.png" width="100%" /></a>
+          <p><a href="http://trailblazer.io/">Trailblazer</a> banishes your browser tabs. It is an extension for Google Chrome, which maps out your journey across the web so you never get lost.</p>
+        <h6>Elsewhere on the web</h6>
         <ul>
           {% if site.twitter %}
-          <li><a target="_blank" href="http://twitter.com/{{ site.twitter }}">Twitter</a></li>
+          <li><a target="_blank" href="http://twitter.com/{{ site.twitter }}">@LetsTwingl</a></li>
+          {% endif %}
+          {% if site.twitter2 %}
+          <li><a target="_blank" href="http://twitter.com/{{ site.twitter2 }}">@TrailblazerApp</a></li>
           {% endif %}
           {% if site.github %}
           <li><a target="_blank" href="{{ site.github }}">Github</a></li>
@@ -62,7 +69,7 @@
       </main>
 
       <footer>
-        <small>&copy; {{ site.author }}</small>
+        <small>&copy; <a href="{{ site.parentsite }}">{{ site.author }}</a></small>
       </footer>
 
     </div> 

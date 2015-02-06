@@ -8,13 +8,15 @@ description: "Twingl is accelerating the evolution of human intelligence."
 author: "Twingl"
 
 url: "http://blog.twin.gl"
+parentsite: "http://twin.gl/"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
-author-bio: "<>"
+author-bio: "We’re here to make the world a smarter place. We’re the folks behind <a href='http://trailblazer.io'>Trailblazer</a>, and this is where our thoughts spill out into the public arena. <br /> <br /> Expect to see stuff about startup culture, flow, education, the noosphere and the evolution of ideas."
 
 # Social Accounts (mine, as placeholders)
 
 twitter: LetsTwingl
+twitter2: TrailblazerApp
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 

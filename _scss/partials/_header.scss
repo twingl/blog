@@ -8,16 +8,20 @@ header {
   
   h1.title {
     @extend h3;
-    display: inline-block;
+    // display: inline-block;
     margin: 0;
     padding: 0;
     font-weight: normal;
     a {
+      display: block;
       color: $text-color;
       text-decoration: none;
-      &:hover {
-        color: $link-color;
-      }
+      text-indent: -999px;
+      overflow: hidden;
+      background-image: url('../assets/img/twingl-blog-logo.png');
+      width: 220px;
+      height: 75px;
+      background-size: 100% 100%;
     }
   } // end h1.title
 
@@ -156,18 +160,27 @@ header {
     }
   } // end .avatar
 
+  p {
+    font-size: 90%;
+    color: lighten($text-color, 30%);
+    margin-bottom: 0;
+  }
 
+  .tb-logo {
+    margin-top: $spacing-m;
+    margin-bottom: $spacing-s;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 240px;
+  }
   .bio {
     display: block;
     h1 {
       @extend h3;
       margin: 0; 
     }
-    p {
-      font-size: 90%;
-      color: lighten($text-color, 30%);
-      margin-bottom: 0;
-    }
+
   }
 
 
