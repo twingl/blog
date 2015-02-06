@@ -1,8 +1,11 @@
 footer { 
   @extend %padding-large;
+  background-color: #940142;
+  color: #fff!important;
   width: 100%;
   bottom: 0;
   left: 0;
   text-align: center; 
-  small { text-transform: uppercase; }
+  small { text-transform: uppercase; font-weight: bold; letter-spacing: 1px;}
+  a {color: #fff!important}
 }
