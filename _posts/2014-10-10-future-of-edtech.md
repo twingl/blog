@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Thoughts on the future of Ed Tech"
+title:  "The future of education technology"
 date:   2014-10-10 12:34:56
 author: matt
 ---
 *This post originally appeared on [Education Personnel](http://edperson.co.nz/blog/thoughts-on-the-future-of-edtech-matt-kennedy) in October 2014.* 
-
-# The future of education technology
 
 Predicting the future is no easy business. In fact, attempts to do so are [often amusing](http://publicdomainreview.org/collections/france-in-the-year-2000-1899-1910/). So when asked to imagine where the education technology (edTech) space might be in five years, we might save some face by leaning on the classic:
 
