@@ -3,6 +3,7 @@ layout: post
 title:  "Lost in Flow"
 date:   2014-11-28 04:20:00
 author: andy
+---
 
 > A trip report from the depths of subconscious makefulness.
 
