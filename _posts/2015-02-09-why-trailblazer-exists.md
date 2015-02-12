@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Trailblazer’s reason for being."
-date:   2015-01-09 16:20:00+13:00
+date:   2015-02-09 16:20:00+13:00
 author: andy
+
+redirect_from:
+  - /2015/01/09/why-trailblazer-exists/
 ---
 Why does Trailblazer exist? Who is it for? Where are you taking it? 
 

@@ -41,6 +41,9 @@ sass:
   sass_dir: _scss
   style: :compressed
 
+gems:
+  - jekyll-redirect-from
+
 # Authors
 authors:
   andy: 
