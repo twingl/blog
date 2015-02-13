@@ -8,8 +8,7 @@ author: matt
 
 Predicting the future is no easy business. In fact, attempts to do so are [often amusing](http://publicdomainreview.org/collections/france-in-the-year-2000-1899-1910/). So when asked to imagine where the education technology (edTech) space might be in five years, we might save some face by leaning on the classic:
 
-> "The future is already here—it's just not very evenly distributed."
-— [William Gibson](http://quoteinvestigator.com/2012/01/24/future-has-arrived/)
+> "The future is already here—it's just not very evenly distributed." — [William Gibson](http://quoteinvestigator.com/2012/01/24/future-has-arrived/)
 
 In other words, let us look at what the most progressive schools are doing, right now, then extrapolate from there.
 
@@ -56,15 +55,15 @@ As we continue blurring the lines between subjects, our students are going to ne
 
 I am certainly excited by the [thinking behind them](http://elearning.tki.org.nz/Teaching/Assessment/e-Portfolios#why_use_ePortfolios). These are intended to be common records that will help our life-long learners connect new information with what they already know. They are places where learners will reflect on their accumulated knowledge throughout their life. 
 
-> "We shape our tools and thereafter our tools shape us." 
-— [John Culkin](http://mcluhangalaxy.wordpress.com/2013/04/01/we-shape-our-tools-and-thereafter-our-tools-shape-us/)
+> "We shape our tools and thereafter our tools shape us." — [John Culkin](http://mcluhangalaxy.wordpress.com/2013/04/01/we-shape-our-tools-and-thereafter-our-tools-shape-us/)
 
 My final prediction is that over the next five years we see e-portfolios that resemble pantries of ingredients, rather than finished cakes. A focus of edTech companies, [such as ourselves](http://trailblazer.io), will be on making this a reality.
 
 
 ## In summary
 
-So, where will the edTech space be in five years? 
+So, where will the edTech space be in five years?
+
 1. edTech will provide teachers with more insight as to *how* their students are learning. 
 2. edTech will enable immersive, student-directed programmes of study. 
 3. edTech will help students create portfolios of learning, portfolios that they'll actually return to in years to come.
